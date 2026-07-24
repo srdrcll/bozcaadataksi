@@ -1,0 +1,17 @@
+{
+  "name": "bozcaadataksi",
+  "version": "1.0.0",
+  "description": "Bozcaada Taksi Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y serve .",
+    "start": "npx -y serve ."
+  },
+  "keywords": [
+    "bozcaada",
+    "taksi",
+    "landing-page"
+  ],
+  "author": "Bozcaada Taksi",
+  "license": "ISC"
+}

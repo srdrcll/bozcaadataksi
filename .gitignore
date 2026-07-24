@@ -1,0 +1,10 @@
+.DS_Store
+.gemini/
+node_modules/
+*.log
+.system_generated/
+.user_uploaded/
+*.metadata.json
+task.md
+walkthrough.md
+implementation_plan.md
